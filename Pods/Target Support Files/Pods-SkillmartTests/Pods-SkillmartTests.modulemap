@@ -1,0 +1,6 @@
+framework module Pods_SkillmartTests {
+  umbrella header "Pods-SkillmartTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
